@@ -86,7 +86,7 @@ import Loader from './Components/Loader';
         }}>
         <View style={{alignItems: 'center'}}>
           <Image
-            source={require('../Image/aboutreact.png')}
+            source={require('../Image/logo.png')}
             style={{
               width: '50%',
               height: 100,
